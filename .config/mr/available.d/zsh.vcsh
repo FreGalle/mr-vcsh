@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/zsh.git]
 checkout = vcsh clone git@github.com:FreGalle/zsh-vcsh.git zsh
+fetch    = vcsh zsh fetch

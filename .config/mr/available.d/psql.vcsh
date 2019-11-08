@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/psql.git]
 checkout = vcsh clone git@github.com:FreGalle/psql-vcsh.git psql
+fetch    = vcsh psql fetch
