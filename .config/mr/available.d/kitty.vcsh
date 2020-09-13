@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/kitty.git]
+checkout = vcsh clone git@github.com:FreGalle/kitty-vcsh.git kitty
+fetch    = vcsh kitty fetch
