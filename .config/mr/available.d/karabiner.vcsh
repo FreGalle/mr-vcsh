@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/karabiner.git]
 checkout = vcsh clone git@github.com:FreGalle/karabiner-vcsh.git karabiner
 fetch    = vcsh karabiner fetch
+update   = vcsh karabiner pull

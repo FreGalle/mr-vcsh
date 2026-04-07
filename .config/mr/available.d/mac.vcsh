@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/mac.git]
 checkout = vcsh clone git@github.com:FreGalle/mac-vcsh.git mac
 fetch    = vcsh mac fetch
+update   = vcsh mac pull

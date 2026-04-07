@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/iterm2.git]
 checkout = vcsh clone git@github.com:FreGalle/iterm2-vcsh.git iterm2
 fetch    = vcsh iterm2 fetch
+update   = vcsh iterm2 pull

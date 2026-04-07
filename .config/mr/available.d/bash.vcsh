@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/bash.git]
 checkout = vcsh clone git@github.com:FreGalle/bash-vcsh.git bash
 fetch    = vcsh bash fetch
+update   = vcsh bash pull

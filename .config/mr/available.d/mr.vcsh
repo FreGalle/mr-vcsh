@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone git@github.com:FreGalle/mr-vcsh.git mr
 fetch    = vcsh mr fetch
+update   = vcsh mr pull

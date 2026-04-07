@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/tmux.git]
-checkout = vcsh clone git@github.com:FreGalle/tmux-vcsh.git tmux 
+checkout = vcsh clone git@github.com:FreGalle/tmux-vcsh.git tmux
 fetch    = vcsh tmux fetch
+update   = vcsh tmux pull

@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/launchbar.git]
 checkout = vcsh clone git@github.com:FreGalle/launchbar-vcsh.git launchbar
 fetch    = vcsh launchbar fetch
+update   = vcsh launchbar pull
